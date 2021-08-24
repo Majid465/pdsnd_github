@@ -7,16 +7,10 @@ Explored data related to bike share systems for three major cities in the United
 Explore US Bikeshare Data
 
 ### Description
-This project gives you statistics on:
-- statistics on the most frequent times of travel.
-- statistics on the most popular stations and trip.
-- statistics on the total and average trip duration.
-- statistics on bikeshare users.
+
 
 ### Files used
-chicago.csv
-new_york_city.csv
-washington.csv
+
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
