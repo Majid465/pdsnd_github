@@ -7,7 +7,11 @@ Explored data related to bike share systems for three major cities in the United
 Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project gives you statistics on:
+- statistics on the most frequent times of travel.
+- statistics on the most popular stations and trip.
+- statistics on the total and average trip duration.
+- statistics on bikeshare users.
 
 ### Files used
 Include the files used
